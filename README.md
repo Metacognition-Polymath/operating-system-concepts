@@ -4,7 +4,7 @@
 - 출판사 : Wiley
 - 발행처 : 퍼스트 북(First Book)
 
-![책_운영체제](https://image.yes24.com/goods/89496122/XL)
+![책_운영체제](./images/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%B1%85%ED%91%9C%EC%A7%80.jpeg)
 
 ## 서문
 
