@@ -17,10 +17,7 @@
   - [게더타운](https://app.gather.town/app/zF6wrPJUcYkDEXde/metacognition)
 
 - 발표 순서
-  - Tony
-  - 노베
-  - 무지
-  - 포도
+  - Tony -> 만보 -> 노베 -> 무지 -> 포도 -> 린
 
 ## 서문
 
