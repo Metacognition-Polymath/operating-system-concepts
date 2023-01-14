@@ -4,6 +4,10 @@
 
 ```
 git clone https://github.com/Metacognition-Polymath/operating-system-concepts.git
+# 해당 폴더를 열어줍니다
+cd operating-system-concepts
+# Visual studio code 실행
+code .
 ```
 
 1. 본인 닉네임으로 브랜치를 생성합니다
