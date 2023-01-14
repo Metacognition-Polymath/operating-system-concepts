@@ -6,6 +6,22 @@
 
 ![책_운영체제](./images/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%B1%85%ED%91%9C%EC%A7%80.jpeg)
 
+## 스터디
+
+- 시간
+
+  - 매주 토요일 오후 9시
+
+- 장소
+
+  - [게더타운](https://app.gather.town/app/zF6wrPJUcYkDEXde/metacognition)
+
+- 발표 순서
+  - Tony
+  - 노베
+  - 무지
+  - 포도
+
 ## 서문
 
 - 운영체제는 모든 컴퓨터 시스템의 필수적인 부분이다
