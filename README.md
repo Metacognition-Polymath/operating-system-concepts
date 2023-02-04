@@ -20,7 +20,7 @@
   - [게더타운](https://app.gather.town/app/zF6wrPJUcYkDEXde/metacognition)
 
 - 발표 순서
-  - Tony -> 만보 -> 노베 -> 무지 -> 린
+  - Tony -> 만보 -> 노베 -> 린 -> 무지
 
 ## 서문
 
