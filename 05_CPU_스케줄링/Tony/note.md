@@ -30,8 +30,8 @@ CPU 버스트 빈도보다 I/O 버스트 빈도가 높은 프로세스들이 더
 3. waiting -> ready
 4. process terminates
 
-- 1, 4는 non-preemptive
-- 2, 3은 preemptive
+- 1, 4는 non-preemptive : 비선점형 - 자발적으로 나옴
+- 2, 3은 preemptive : 선점형 - 쫒아냄
 
 현대적인 OS는 2, 3 모두 preemptive
 
