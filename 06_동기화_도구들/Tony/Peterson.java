@@ -6,7 +6,7 @@ public class Peterson {
   public static void main(String[] args) {
     Thread t1 = new Thread(new Runnable() {
       public void run() {
-        for (int i = 0; i < 10000; i++) {
+        for (int i = 0; i < 1000; i++) {
           // entry section
           flag[0] = true;
           turn = 1;
@@ -28,7 +28,7 @@ public class Peterson {
     
     Thread t2 = new Thread(new Runnable() {
       public void run() {
-        for (int i = 0; i < 10000; i++) {
+        for (int i = 0; i < 1000; i++) {
           // entry section
           flag[1] = true;
           turn = 0;
