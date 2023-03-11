@@ -1,0 +1,8 @@
+생산자-소비자 문제:
+https://m.blog.naver.com/PostView.naver?blogId=hirit808&logNo=221785171412
+
+독자-저자 문제:
+https://m.blog.naver.com/hirit808/221786966867
+
+식사하는 철학자 문제:
+https://m.blog.naver.com/hirit808/221788147057
