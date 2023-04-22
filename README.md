@@ -6,6 +6,7 @@
 
 ![책_운영체제](./images/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%B1%85%ED%91%9C%EC%A7%80.jpeg)
 
+- OS 책 홈페이지 : https://www.os-book.com/OS10/
 - 연습문제 정답
   - https://www.os-book.com/OS10/practice-exercises/index-solu.html
 
